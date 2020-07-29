@@ -1,4 +1,4 @@
-# DungeonDiver - Player Status
+# DungeonDiver - Fighting
 
 ## Overview 
 DungeonDiver is meant to document and share the code for creating a fully working RPG with Unity ([Full Details of the project.](https://www.noveltech.dev/dungeondiver_making-game-unity/))
